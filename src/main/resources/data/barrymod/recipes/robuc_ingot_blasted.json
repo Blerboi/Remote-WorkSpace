@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 4,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "barrymod:barry_ore"
+  },
+  "result": {
+    "item": "barrymod:robuc_ore"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "barrymod:blocks/robuc_ore",
+    "up": "barrymod:blocks/robuc_ore",
+    "north": "barrymod:blocks/robuc_ore",
+    "east": "barrymod:blocks/robuc_ore",
+    "south": "barrymod:blocks/robuc_ore",
+    "west": "barrymod:blocks/robuc_ore",
+    "particle": "barrymod:blocks/robuc_ore"
+  }
+}

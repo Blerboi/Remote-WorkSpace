@@ -1,0 +1,94 @@
+{
+  "mod_elements": [
+    {
+      "name": "BarryOre",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "barry_ore"
+    },
+    {
+      "name": "RobucOre",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "robuc_ore"
+    },
+    {
+      "name": "RobucAdvancement",
+      "type": "achievement",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "robuc_advancement"
+    },
+    {
+      "name": "BarryMod",
+      "type": "tab",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "barry_mod"
+    },
+    {
+      "name": "RobucIngotSmelted",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "robuc_ingot_smelted"
+    },
+    {
+      "name": "RobucIngotBlasted",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "robuc_ingot_blasted"
+    },
+    {
+      "name": "RobucOreToDiamonds",
+      "type": "villagertrade",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "robuc_ore_to_diamonds"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "advancements.robuc_advancement.descr": "Mine robuc ore",
+      "advancements.robuc_advancement.title": "Robuc Advancement",
+      "itemGroup.tabbarry_mod": "Barry Mod",
+      "block.barrymod.barry_ore": "Robuc Ore",
+      "item.barrymod.robuc_ore": "Robuc Ingot"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "barrymod",
+    "modName": "BarryMod",
+    "version": "1.0.0",
+    "author": "blera, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.barrymod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}
